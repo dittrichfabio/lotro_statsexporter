@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>StatsExporter</Name>
+		<Author>ddmdarklink</Author>
+		<Version>1.0.0</Version>
+		<Description>
+			Saves a JSON file with the stats of your character.
+		</Description>
+    <Image>StatsExporter/resources/Ring.tga</Image>
+	</Information>
+	<Package>StatsExporter.src.main</Package>
+	<Configuration Apartment="StatsExporter"></Configuration>
+</Plugin>
